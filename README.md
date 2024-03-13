@@ -1,4 +1,4 @@
-# DALN - CINEMA
+# Quản lý hệ thống rạp chiếu phim
 1.1. Đặt vấn đề 
 Hiện nay hình thức xem phim chiếu rạp không còn xa lạ với chúng ta, nó không chỉ đơn thuần để giải trí, giảm bớt áp lực, mà còn mang lại những trải nghiệm, kích thích trí tưởng tượng và tạo ra những cảm xúc mạnh mẽ. 
 Vì lẽ đó nhu cầu xem phim chiếu rạp của con người ngày càng tăng, nó dần trở thành một phần không thể thiếu trong cuộc sống, nắm bắt được điều đó đã có rất nhiều cụm rạp được xây dựng nằm rải rác khắp Việt Nam nhằm đáp ứng nhu cầu của khách hàng.  
