@@ -24,3 +24,13 @@ WEBSITE QUẢN LÝ HỆ THỐNG RẠP CHIẾU PHIM
 − Cấp quyền, phân vai trò cho tài khoản nhân viên, giúp thuận tiện trong việc điều hành, quản lý nội bộ. 
 − Thống kê, so sánh doanh thu từng rạp trong hệ thống. 
 − Thống kê doanh thu theo phim, thể loại phim, thức ăn. 
+
+Ngôn ngữ được sử dụng : PHP, Javascript, Jquery Ajax
+Công nghệ sử dụng trong project này là : 
+1. Framework Laravel
+2. MySQL - Database
+3. Bootstrap
+4. Google Lighthouse
+5. Jmeter
+6. Railway
+7. Github
