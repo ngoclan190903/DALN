@@ -3,6 +3,7 @@
 Hiện nay hình thức xem phim chiếu rạp không còn xa lạ với chúng ta, nó không chỉ đơn thuần để giải trí, giảm bớt áp lực, mà còn mang lại những trải nghiệm, kích thích trí tưởng tượng và tạo ra những cảm xúc mạnh mẽ. 
 Vì lẽ đó nhu cầu xem phim chiếu rạp của con người ngày càng tăng, nó dần trở thành một phần không thể thiếu trong cuộc sống, nắm bắt được điều đó đã có rất nhiều cụm rạp được xây dựng nằm rải rác khắp Việt Nam nhằm đáp ứng nhu cầu của khách hàng.  
 Để vừa giúp quản trị viên trong việc thống kê, quản lý được số lượng cụm rạp lớn vừa tạo sự thuận tiện cho khách hàng khi giờ đây khách hàng chỉ cần ngồi tại nhà vẫn có thể chọn suất chiếu và mua vé mà không cần phải đến trực tiếp tại rạp  thì nhóm em quyết định thực hiện việc thiết kế, xây dựng website quản lý hệ thống rạp chiếu phim dành cho quản trị viên lẫn khách hàng. 
+
 1.2. Giải quyết vấn đề 
 Nhằm mang đến những thuận lợi đã nêu ở trên, website quản lý hệ thống rạp chiếu phim của nhóm em đã đưa ra những thử thách như sau. 
 Giao diện người dùng: 
